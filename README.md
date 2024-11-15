@@ -1,7 +1,7 @@
 # IoT-Based Real-Time Indoor Air Quality Classification and Automated Ventilation Control Using KNN
 
 
-This project is an IoT-based indoor air quality monitoring and automation system that uses a K-Nearest Neighbors (KNN) algorithm to classify air quality levels in real-time. It runs on a local server, with data processed and stored locally on your computer. The system automatically controls ventilation when pollutant levels are unsafe.
+IoT-based indoor air quality monitoring and automation system that uses a K-Nearest Neighbors (KNN) algorithm to classify air quality levels in real-time. It runs on a local server, with data processed and stored locally on your computer. The system automatically controls ventilation when pollutant levels are unsafe.
 
 ## Project Objectives
 - **Real-Time Air Quality Monitoring**: Detect harmful indoor pollutants like VOCs, CO, and LPG.
