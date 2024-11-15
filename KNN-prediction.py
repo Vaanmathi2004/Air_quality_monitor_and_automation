@@ -45,4 +45,3 @@ print('Confusion Matrix : \n', cm)
 # Classification report
 classification_report = metrics.classification_report(y_pred, y_test)
 print('Classification Report:\n', classification_report)
-
